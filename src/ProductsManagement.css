@@ -1,0 +1,24 @@
+/* App.css - Global styles */
+
+  /* ProductsManagement.css */
+  .products-management {
+    padding: 20px;
+  }
+  
+  .products-management h1 {
+    color: #333;
+  }
+  
+  .products-management table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .products-management th,
+  .products-management td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+ 

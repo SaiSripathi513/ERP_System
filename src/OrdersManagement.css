@@ -1,0 +1,51 @@
+
+  /* OrdersManagement.css */
+  .orders-management {
+    padding: 20px;
+  }
+  
+  .orders-management h1 {
+    color: #333;
+  }
+  
+  .orders-management ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .orders-management li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Buttons and Links */
+  .btn,
+  .link {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .btn:hover,
+  .link:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Utility Classes */
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-20 {
+    margin-top: 20px;
+  }
+  
+  .mb-20 {
+    margin-bottom: 20px;
+  }
+  
